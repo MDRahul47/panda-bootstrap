@@ -1,0 +1,19 @@
+.btn-panda{
+    color: white;
+    background-color: #FF3886;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    text-decoration: none;
+    margin-left: 5px;
+    display: inline-block;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+#chobi{
+    width: 100px;
+}
+
+.chovi{
+    background-color: #FEEAE9;
+}
